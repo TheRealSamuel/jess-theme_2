@@ -1920,13 +1920,13 @@ $$ |  $$ |$$\   $$ |$$ |      $$ |  $$ |      $$\   $$ |$$ |         $$ |      $
   box-shadow: inset 0px 0px 5px 1px rgb(var(--Neon-Rgb)), 0px 0px 15px 4px rgb(var(--Neon-Rgb)) !important;
 }
 
-/*"About me" text area background*/
+/*"About me" text area background
 .bioTextArea-dDGOeC {
   width: unset;
   background-color: transparent;
   border-color: rgb(var(--Neon-Rgb));
   box-shadow: inset 0px 0px 5px 1px rgb(var(--Neon-Rgb)), 0px 0px 15px 4px rgb(var(--Neon-Rgb));
-}
+}*/
 
 /* User popout preview */
 .preview-Z55SA3 {
