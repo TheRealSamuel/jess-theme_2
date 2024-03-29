@@ -1928,11 +1928,11 @@ $$ |  $$ |$$\   $$ |$$ |      $$ |  $$ |      $$\   $$ |$$ |         $$ |      $
   box-shadow: inset 0px 0px 5px 1px rgb(var(--Neon-Rgb)), 0px 0px 15px 4px rgb(var(--Neon-Rgb));
 }*/
 
-/* User popout preview */
+/* User popout preview 
 .preview-Z55SA3 {
   border-color: rgb(var(--Neon-Rgb));
   box-shadow: inset 0px 0px 5px 1px rgb(var(--Neon-Rgb)), 0px 0px 15px 4px rgb(var(--Neon-Rgb));
-}
+}/*
 /* Disable Banner */
 .bannerNitroUpsell-2iP18z {
   display: none;
@@ -1940,11 +1940,11 @@ $$ |  $$ |$$\   $$ |$$ |      $$ |  $$ |      $$\   $$ |$$ |         $$ |      $
 .banner-3D8GgT {
   width: 0%;
 }
-/*"Avatar, Profile color, Preview, Profile Banner, About me" text paddings*/
+/*"Avatar, Profile color, Preview, Profile Banner, About me" text paddings
 .defaultMarginh5-3Jxf6f {
   padding-top: 5px;
   padding-left: 5px;
-}
+}/*
 
 /*#################### Privacy and safety ####################*/
 /*Request data button color, border and background*/
