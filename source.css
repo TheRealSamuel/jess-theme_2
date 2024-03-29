@@ -587,7 +587,7 @@ Titlebar top buttons colors. Close, rezise and hide*/
 
 /*Custom background for home icon and for guilds with no photos*/
 .childWrapper-1j_1ub {
-  background: linear-gradient(rgba(170, 0, 158, 0.4),rgba(170, 0, 158, 0.3)) , var(--loop-gif-diamond) 50% 100%/cover !important;
+  background: linear-gradient(rgba(250, 210, 242, 0.4),rgba(250, 210, 242, 0.3)) , var(--loop-gif-diamond) 50% 100%/cover !important;
   color: var(--text-normal);
 }
 
