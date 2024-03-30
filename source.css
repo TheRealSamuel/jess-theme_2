@@ -3352,13 +3352,13 @@ $$ |  $$ |$$ |  $$ |  $$ |  $$ |      $$ |  $$ |$$\   $$ |
   border-color: rgb(var(--Neon-Rgb)) !important;
   box-shadow: inset 0px 0px 1px 1px rgb(var(--Neon-Rgb)), 0px 0px 15px 1px rgb(var(--Neon-Rgb)) !important;
 }
-/*When viewing user profile popout actions button color (update 25.10.2022)*/
+/*When viewing user profile popout actions button color (update 25.10.2022)
 .actionColor-3JIzOn {
   color: var(--Secondary-Color);
   background-color: transparent;
   border-radius: 15px;
   border: 1px var(--Main-Color) solid;
-}
+}*/
 .actionColor-3JIzOn:hover {
   color: var(--Main-Color);
   background-color: transparent;
