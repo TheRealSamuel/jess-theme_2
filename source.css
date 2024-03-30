@@ -121,8 +121,8 @@ $$ |  $$ |$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |      $$\   $$ |
   --logo-primary: #fff;
   --control-brand-foreground: hsl(235,calc(var(--saturation-factor, 1)*86.1%),77.5%);
   --control-brand-foreground-new: hsl(235,calc(var(--saturation-factor, 1)*86.1%),77.5%);
-  --background-mentioned: transparent;
-  --background-mentioned-hover: transparent;
+  /*--background-mentioned: transparent;
+  --background-mentioned-hover: transparent;*/
   --background-message-hover: var(--Color-5);
   --background-message-automod: transparent;
   --background-message-automod-hover: transparent;
